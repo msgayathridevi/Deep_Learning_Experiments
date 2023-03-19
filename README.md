@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning projects
+Deep Learning excercises
